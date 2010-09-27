@@ -6,7 +6,7 @@ A Quartz Composer composition that rolls through the BBC's National Radio networ
 Have a play
 -----------
 
-The main BBC Radio Now.qtz file will open in your local copy of quartz composer, where you tinker with all the settings.
+The main BBC Radio Now.qtz file will open in your local copy of [Quartz Composer](http://developer.apple.com/graphicsimaging/quartz/quartzcomposer.html), where you can tinker with all the settings.
 
 Run as Screensaver
 ------------------
