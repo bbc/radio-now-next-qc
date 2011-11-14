@@ -1,21 +1,17 @@
-Now Next Quartz Composition
-===========================
+# Now Next Quartz Composition
 
 A Quartz Composer composition that rolls through the BBC's National Radio networks and displays who is currently on air, as well as downloading and displaying the network logo and a pretty image for that show. 
 
-Requirements
-------------
+## Requirements
 
 * Make sure you are running Mac OSX 10.6 (It won't work otherwise)
 
 
-Have a play
------------
+## Have a play
 
 The main BBC Radio Now.qtz file will open in your local copy of [Quartz Composer](http://developer.apple.com/graphicsimaging/quartz/quartzcomposer.html), where you can tinker with all the settings.
 
-Run as Screensaver
-------------------
+## Run as Screensaver
 
 To install as a screensaver, you need to:
 
